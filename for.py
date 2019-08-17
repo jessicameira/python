@@ -3,3 +3,6 @@ magicos = ['amanda', 'carolina', 'roberto']
 for magico in magicos:
     #printe o nome do magico
     print(magico)
+    print("Repeticao")
+#esse print será apresentado apenas uma vez, pois está fora da identação.
+print("Obrigada por participar!")
