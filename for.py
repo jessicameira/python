@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+#comando para o Python entender os acentos.
 magicos = ['amanda', 'carolina', 'roberto']
 #tradução do codigo a seguir: Para cada mágico na lista de magicos
 for magico in magicos:
